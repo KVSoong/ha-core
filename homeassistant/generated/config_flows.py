@@ -137,6 +137,7 @@ FLOWS = {
         "emonitor",
         "emulated_roku",
         "energyzero",
+        "enflic_daikin_vrv",
         "enocean",
         "enphase_envoy",
         "environment_canada",

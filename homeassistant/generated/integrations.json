@@ -1530,6 +1530,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "enflic_daikin_vrv": {
+      "name": "enflic_daikin_vrv",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "enigma2": {
       "name": "Enigma2 (OpenWebif)",
       "integration_type": "hub",

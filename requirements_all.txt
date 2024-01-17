@@ -1058,6 +1058,9 @@ horimote==0.4.1
 # homeassistant.components.remember_the_milk
 httplib2==0.20.4
 
+# homeassistant.components.enflic_daikin_vrv
+httpx==0.26.0
+
 # homeassistant.components.huawei_lte
 huawei-lte-api==1.7.3
 
